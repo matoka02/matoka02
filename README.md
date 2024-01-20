@@ -35,4 +35,8 @@
  - [Telegram](@anastasiia_nih)
 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matoka02)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matoka02)
+
 

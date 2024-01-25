@@ -1,5 +1,6 @@
 
 <p align="center"># 🏠 Hello👋, my name is Anastasiia</p>
+
 ### I have been working with frontend.
 
 
@@ -11,7 +12,7 @@
 
 - 📖 I`m learning React.
 - 🎮 My hobbies are dramas and lacorns.
-- 💌 You can write to me at a.m.nigomedzyanova@gmail.com
+- 💌 You can write to me at [mail](a.m.nigomedzyanova@gmail.com)
 
 
 ## 🔨 Skills
@@ -30,7 +31,7 @@
 
 
 ## 📰 Social links
- 
+  
  - [LinkedIn](https://www.linkedin.com/in/tessa02)
  - [Telegram](@anastasiia_nih)
 
@@ -38,5 +39,3 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matoka02)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matoka02)
-
-

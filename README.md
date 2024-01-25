@@ -30,10 +30,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 
 
+
+
 ## 📰 Social links
   
  - [LinkedIn](https://www.linkedin.com/in/tessa02)
  - [Telegram](@anastasiia_nih)
+
+
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=matoka02)
